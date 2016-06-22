@@ -10,7 +10,7 @@
     </ion-side-menu-content>
     <ion-side-menu side="left">
         <ion-header-bar class="bar-stable">
-            <div class="title"> <img src="../assets/images/logo_header.png" height="35" width="120" style="margin-top:5px;"/></div>
+            <div class="title"> <img src="/assets/images/logo_header.png" height="35" width="120" style="margin-top:5px;"/></div>
         </ion-header-bar>
         <ion-content padding="false" class="side-menu-left has-header">
             <ion-list>
