@@ -1,0 +1,38 @@
+.bar-stable .button.button-clear
+{
+  color: #fff;
+}
+.bar.bar-stable .title
+{
+  color: #fff;
+}
+.bar.bar-stable
+{
+  background-color: #000;
+}
+
+.button.button-royal
+{
+  background: #730099;
+}
+.button.button-royal.button-clear
+{
+  color: #730099;
+}
+.button.button-royal:active
+{
+  background: #ac00e6;
+}
+.button.button-positive
+{
+  background: #730099;
+}
+
+.button.button-positive:active
+{
+  background: #ac00e6;
+}
+.bar-stable .button.button-icon
+{
+  color: #fff;
+}
