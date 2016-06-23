@@ -1,0 +1,2 @@
+[06-Mar-2016 02:36:24 UTC] PHP Fatal error:  Class 'Model' not found in /home/salesdock/public_html/models/Config.php on line 3
+[06-Mar-2016 02:36:27 UTC] PHP Fatal error:  Class 'Model' not found in /home/salesdock/public_html/models/Emails.php on line 3
